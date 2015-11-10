@@ -5,6 +5,8 @@ semantic-ui (obvious) with the following components:
 * popup
 * dropdown
 
+Just extract files at the root of your project.
+
 You may change directories relative to your semantic install at:
 ```
 <script src="semantic/dist/semantic.min.js"></script>

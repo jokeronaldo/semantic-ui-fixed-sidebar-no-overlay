@@ -1,3 +1,6 @@
+### DEMO
+http://ronaldo-systemar.github.io/semantic-ui-fixed-sidebar-no-overlay/
+
 ### Requisites
 
 semantic-ui (obvious) with the following components:

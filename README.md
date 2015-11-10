@@ -5,7 +5,7 @@ semantic-ui (obvious) with the following components:
 * popup
 * dropdown
 
-Just extract files at the root of your project.
+Just clone or extract files at the root of your project.
 
 You may change directories relative to your semantic install at:
 ```

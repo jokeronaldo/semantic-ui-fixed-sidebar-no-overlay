@@ -1,2 +1,6 @@
-# semantic-ui-fixed-sidebar-no-overlay
-A simple example of fixed sidebar layout
+### Requisites
+
+semantic-ui (obvious) with the following components:
+* sidebar
+* popup
+* dropdown

@@ -1,5 +1,5 @@
 ### DEMO
-http://ronaldo-systemar.github.io/semantic-ui-fixed-sidebar-no-overlay/
+http://jokeronaldo.github.io/semantic-ui-fixed-sidebar-no-overlay/
 
 ### Requisites
 
